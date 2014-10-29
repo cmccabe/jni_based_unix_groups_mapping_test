@@ -61,7 +61,7 @@ public class JniBasedUnixGroupsMappingTest { //extends Configured {
         "Java system properties to set:\n" +
         "test.nthreads [nthreads]           Number of threads to use. (default 100)\n" +
         "test.username [user name]          User name to use.\n" +
-        "test.seconds [num seconds]         Number of seconds to run the test (default 10)\n" +
+        "test.seconds [num seconds]         Number of seconds to run the test (default 10)\n"
     );
     System.exit(retval);
   }
